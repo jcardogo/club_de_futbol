@@ -10,6 +10,7 @@ export type ClaseHorario = {
   notas: string | null;
   alternativo: boolean;
   orden: number | null;
+  activo?: boolean;
 };
 
 type DiaInfo = { label: string; jsDay: number; byDay: string };
