@@ -52,7 +52,7 @@ export default function Home() {
         <div className="flex items-center gap-3">
           <CrestIcon />
           <div className="leading-tight">
-            <div className="headline text-lg">Semillero Rivera</div>
+            <div className="headline text-lg">Club Deportivo Cardoso</div>
             <div className="text-[10px] tracking-[2px] text-[--color-grey] uppercase">
               Escuela de Fútbol
             </div>
@@ -224,7 +224,7 @@ export default function Home() {
               strokeWidth="1.5"
             />
           </svg>
-          <div className="headline text-base text-white">Semillero Rivera</div>
+          <div className="headline text-base text-white">Club Deportivo Cardoso</div>
         </div>
         <div className="text-sm leading-loose text-zinc-300">
           Rivera, Huila, Colombia
@@ -234,7 +234,7 @@ export default function Home() {
           [+57 300 000 0000]
         </div>
         <div className="text-xs text-zinc-500">
-          © 2026 Semillero Rivera. Nombre y datos de contacto por confirmar.
+          © 2026 Club Deportivo Cardoso. Nombre y datos de contacto por confirmar.
         </div>
       </div>
     </div>

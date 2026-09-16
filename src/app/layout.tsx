@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Semillero Rivera — Escuela de Fútbol Infantil",
+  title: "Club Deportivo Cardoso — Escuela de Fútbol Infantil",
   description:
     "Escuela de fútbol formativo para niños y niñas de 4 a 11 años en Rivera, Huila. Cupos limitados, crecimiento por fases.",
 };
