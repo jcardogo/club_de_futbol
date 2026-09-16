@@ -65,6 +65,9 @@ export default function Home() {
           <a href="#niveles" className="text-sm font-semibold text-[--color-ink]">
             Niveles
           </a>
+          <a href="/horario" className="text-sm font-semibold text-[--color-ink]">
+            Horario
+          </a>
           <a href="#contacto" className="text-sm font-semibold text-[--color-ink]">
             Contacto
           </a>
